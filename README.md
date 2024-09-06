@@ -27,7 +27,7 @@ This project is a simple User Management Application built using React, designed
 - Navigation: Uses react-router-dom for navigation between different views.
 
 ## Live Project
-Here's a live demo link: 
+Here's a live demo link: [User Management Application](https://warm-marzipan-0924f.netlify.app/)
 
 ## Technologies Used
 - React: For building the user interface with functional components and hooks.
